@@ -2,8 +2,6 @@
 
 - Fix image advanced in a cloneable group not displayed correctly
 
-### Changelog
-
 ### 2.2.5 - 2026-07-14
 - Fix not displaying term meta in the Elementor taxonomy loop
 - Fix deprecated notice in GroupField
