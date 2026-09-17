@@ -1,3 +1,7 @@
+### 2.2.6 - 2026-09-17
+
+- Fix image advanced in a cloneable group not displayed correctly
+
 ### Changelog
 
 ### 2.2.5 - 2026-07-14
